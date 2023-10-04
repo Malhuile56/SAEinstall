@@ -1,1 +1,1 @@
-La configuration github avec vscode est fonctionnelle.
+Tony Kerguen
