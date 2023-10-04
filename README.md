@@ -39,25 +39,6 @@
   sudo snap install docker
 ```
 
-## <span style = "color : lightblue">Installation de Python 3</span>
-##### 1- Dans un terminal, entrez cette commande pour installer python 3 :
-
-```
-  sudo apt-get install python3
-```
-
-##### 2- Puis, entrez cette commande pour ouvrir l'environnement python :
-
-```
-  python3
-```
-
-##### 3- Si vous voulez mettre à jour python, entrez cette commande :
-
-```
-  sudo apt update && sudo apt upgrade python3
-```
-
 ## <span style = "color : lightblue">Liaison entre GitHub et VsCode</span>
 #### 1- Configurer VsCode et GitHub :
 
