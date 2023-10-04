@@ -5,7 +5,7 @@
 ## <span style = "color : lightblue">Installation de la Machine Virtuelle</span> ##
 #### 1- Choix de la Machine Virtuelle 
 
-###### Tout d'abord, j'ai choisi d'installer une machine virtuelle plutôt qu'un 'dualboot' pusiqu'une machine virtuelle permet une meilleure isolation, c'est-à-dire que les plantages et les erreurs de la machine n'affecteront pas le système hôte. La machine virtuelle peut nous permettre également une meilleure gestion et une meilleure sécurité, ce qui est utile lorsque des menaces éventuelles affectent la VM et donc ne sont uniquement limitées à la VM et n'affectent pas le système hôte.
+###### J'ai fait le choix d'installer une machine virtuelle plutôt qu'un 'dualboot' pusiqu'une machine virtuelle permet une meilleure isolation, c'est-à-dire que les plantages et les erreurs de la machine n'affecteront pas le système hôte. La machine virtuelle peut nous permettre également une meilleure gestion et une meilleure sécurité, ce qui est utile lorsque des menaces éventuelles affectent la VM et donc ne sont uniquement limitées à la VM et n'affectent pas le système hôte.
 
 #### 2- Installation et configuration de la machine virtuelle (VM)
 
