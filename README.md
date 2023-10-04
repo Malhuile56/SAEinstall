@@ -59,21 +59,25 @@
 ```
 
 ## <span style = "color : lightblue">Liaison entre GitHub et VsCode</span>
-##### - Dans le terminal de VsCode, entrez ces commandes pour lier VsCode avec GitHub:
+#### 1- Configurer VsCode et GitHub :
+
+Pour lier GitHub et VsCode, il faudra faire en amont des commandes : installer l'extension VsCode "GitHub Codespaces, créer un répertoire sur GitHub, faire "Clone Repository" sur VsCode pui enregistrez le. Maintenant, passez à l'étape 2.
+
+##### 2- Dans le terminal de VsCode, entrez ces commandes pour lier VsCode avec GitHub:
 
 ```
-  git add <nom du fichier>
+  git add <nom du fichier.extension>
+```
+
+```
+  git config --global user.email <email>
+```
+
+```
+  git config --global user.name <nom>
 ```
 
 ```
   git commit -m "ex:création du fichier"
 ```
 
-```
-  git --config user.email <email>
-```
-
-```
-  git --config user.name <nom>
-```
-frfrfrfrfrfrfrfrf
