@@ -70,3 +70,5 @@
 ```
   git commit -m "ex:création du fichier"
 ```
+#### D'après les instructions ci-dessus, vous devriez avoir réussi à installer tout ce dont vous avez besoin pour créer environnement de travail complet.
+#### Merci d'avoir lu mon README.
