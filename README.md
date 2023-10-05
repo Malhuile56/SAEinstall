@@ -12,8 +12,9 @@
 ###### - Pour commencer l'installation de votre VM, vous aurez besoin d'aller sur le site "https://www.virtualbox.org/" et d'installer VirtualBox7.0 et choisir de l'installer sur votre système d'exploitation de votre système hôte. 
 ###### - Ensuite, vous aurez besoin d'installer l'ISO de Ubuntu sur le site "https://www.ubuntu-fr.org/download/" et installer la version recommandée (version 22.04 de Ubuntu). L'ISO est le fichier que vous téléchargez quand vous voulez créer un disque de démarrage pour installer Ubuntu sur votre ordinateur.
 ###### - A la suite des installations, ouvrez VirtualBox et commencez à configurer votre machine virtuelle en suivants les instructions suivantes : Créez une nouvelle machine, Indiquez son nom, puis enregistez-la. Ensuite, mettre Linux comme système d'exploitation et choisir Ubuntu(64-bit). Puis, choisissez la taille de la mémoire que vous voulez allouer à votre machine (je vous recommande d'allouer seulement la moitié de la mémoire de votre pc à votre machine). Commencez à créer votre disque virtuel en lui allouant environ 40Go de stockage, puis créez-le.
+###### - Enfin, Démarrez votre machine virtuelle, choisir le disque dur et démarrez. Sélectionnez la langue et installer Ubuntu. Sélectionnez également la langue du clavier, votre localisation, entrez votre prénom et créez votre mot de passe.
 
-#### Par la suite, grâce à cette installation de machine virtuelle nous pourrons installer et/ou tester, à l'aide d'un terminal, Javascript, VsCode, Docker en effectuant des commandes.  
+#### Par la suite, grâce à cette installation de machine virtuelle nous pourrons installer et/ou tester, à l'aide d'un terminal, Javascript, VsCode, Docker avec l'aide de commandes.  
 
 ## <span style = "color : lightblue">Installation de VsCode</span>
 #### 1- Dans un terminal, entrez cette commande pour installer VsCode :
